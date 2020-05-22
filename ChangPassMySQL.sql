@@ -3,3 +3,5 @@ FLUSH PRIVILEGES;
 
 
 ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewPass';
+
+mysqladmin.exe -u root password WhateverPassword
