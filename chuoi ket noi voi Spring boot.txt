@@ -1,0 +1,4 @@
+chuoi ket noi voi Spring boot
+spring.datasource.url=jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12342643
+spring.datasource.username=sql12342643
+spring.datasource.password=VrtaMKiEZC
