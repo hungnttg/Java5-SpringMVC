@@ -1,0 +1,8 @@
+b1 - dang ky tai day: https://www.freemysqlhosting.net/
+B2 nhap email, sau do check mail
+B3 -login lai va nhap pass moi
+B4 -sau do vao tao database
+B5- sau do lai check mail de lay thong tin phpmyadmin: 
+B6 -sau do dang nhap vao day: http://www.phpmyadmin.co/
+voi server, u, pass duoc cung cap
+sau do tao bang du lieu
